@@ -35,6 +35,8 @@ This project uses SQL to analyze supply chain data and provide actionable busine
 
 ## 🗂 Dataset Information
 
+**Dataset Source:** Kaggle – Supply Chain Dataset
+
 The dataset contains **100 records** and **24 columns**, including:
 
 - Product Type
@@ -63,8 +65,9 @@ The dataset contains **100 records** and **24 columns**, including:
 
 ## 🛠 Tools & Technologies
 
-- MySQL Workbench
 - SQL
+- MySQL
+- Microsoft Excel
 - Git
 - GitHub
 
